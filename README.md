@@ -1,2 +1,2 @@
 # java8-in-simple-way
-This repository is used for java8 Case study
+This repository is used for java8 Cases Study like Functional Programming, Date and Time API, etc...
